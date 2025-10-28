@@ -4,8 +4,6 @@ description: Lecture slides on Design Requirements ? Safety and Critical Safety 
 file: /courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/9e8544798628ed5fe1deb19083164a57_lec6_ga.pdf
 file_size: 571682
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,8 +5,6 @@ description: 'Supporting material for homework assignment: VIPRE input files, in
 file: /courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/61984faff2a1ae5697bf03c8bd93fa23_vipre_inputszip.zip
 file_size: 8979
 file_type: application/zip
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

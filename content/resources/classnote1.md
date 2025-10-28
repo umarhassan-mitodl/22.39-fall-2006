@@ -5,8 +5,6 @@ description: 'Class Note 1: Relationships Among Key Reactor System Design Variab
 file: /courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/377d819ea0c471c9519b4897f25883d3_classnote1.pdf
 file_size: 1196807
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

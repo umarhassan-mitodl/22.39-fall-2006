@@ -5,8 +5,6 @@ description: Lecture slides on Fast Reactor Materials Issues, Extension of LWR C
 file: /courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/8ed1b9c7d8e82a9d09ad9b2c71602f82_lec24_rb.pdf
 file_size: 38391
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

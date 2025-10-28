@@ -4,8 +4,6 @@ description: Lecture slides on Large and Small Break LOCA Analysis/Result.
 file: /courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/08e2a1235e716dbf53f39019f5c2ec2b_lec15_nt.pdf
 file_size: 2350153
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

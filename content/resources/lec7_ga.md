@@ -8,8 +8,6 @@ description: 'Lecture slides on Reactor Safety: The Emergence of Probabilistic R
 file: /courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/aeaa07d3f241bb6ce7da6cdab11dfa15_lec7_ga.pdf
 file_size: 845367
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

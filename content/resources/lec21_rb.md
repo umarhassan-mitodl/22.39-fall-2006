@@ -5,8 +5,6 @@ description: "Lecture slides on Reactor Design, Operation, and Safety, and\tRadi
 file: /courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/79bc7f6b9a29512ab94f5481e41d5393_lec21_rb.pdf
 file_size: 1354308
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

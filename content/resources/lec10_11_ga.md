@@ -10,8 +10,6 @@ description: Lecture slides on Probabilistic Calculations, General Formulation, 
 file: /courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/aedbd865e172e08d44f9e85215913d0b_lec10_11_ga.pdf
 file_size: 582823
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

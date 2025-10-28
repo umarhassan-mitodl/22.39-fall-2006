@@ -4,8 +4,6 @@ description: Lecture slides on Reactor Physics - Design Parameters for PWRs.
 file: /courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/0095dcff485ce7a59791efa5955d4458_lec5_ga.pdf
 file_size: 244004
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

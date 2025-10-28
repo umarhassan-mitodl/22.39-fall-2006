@@ -5,8 +5,6 @@ description: 'Lecture slides on Thermal Hydraulic Design Requirements in Safety 
 file: /courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/4b6cdc67757ac32e440d2a5ded40115f_lec4_nt.pdf
 file_size: 1717457
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

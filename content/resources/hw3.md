@@ -5,8 +5,6 @@ description: Homework assignment on Integration of Reactor Design, Operations, a
 file: /courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/8b01ae04493824ea8de462300a29adc0_hw3.pdf
 file_size: 32094
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

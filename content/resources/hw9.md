@@ -4,8 +4,6 @@ description: Homework assignment Materials Problems.
 file: /courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/772bbca5c228b3ea8ff4a3bc0181b816_hw9.pdf
 file_size: 10726
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

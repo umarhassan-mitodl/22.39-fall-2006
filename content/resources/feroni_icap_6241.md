@@ -5,8 +5,6 @@ description: This resource gives description about feasibility of improving BWR 
 file: /courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/4af9d02ceafe257b2b2011fdb55f27c6_feroni_icap_6241.pdf
 file_size: 548668
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

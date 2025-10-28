@@ -5,8 +5,6 @@ description: U.S. NRC. Standard Review Plan for Review of License Renewal Applic
 file: /courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/2f413801f298d5e9e21c0dada014217e_nureg_1800.pdf
 file_size: 1588575
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

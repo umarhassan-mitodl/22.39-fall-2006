@@ -12,8 +12,6 @@ description: 'Lecture slides on Licensing Basis Changes, The Integrated Decision
 file: /courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/f8260bff703f712c21663be2e40afb9b_lec12_ga.pdf
 file_size: 179702
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

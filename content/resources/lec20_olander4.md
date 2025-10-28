@@ -7,8 +7,6 @@ description: 'Olander, Donald E. "Radiation Effects in Metals: Hardening, Embrit
 file: /courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/bfd8c1f17b80fd7eea61ab66674db94a_lec20_olander4.pdf
 file_size: 5023678
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

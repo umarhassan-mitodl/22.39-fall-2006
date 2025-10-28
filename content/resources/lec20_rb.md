@@ -5,8 +5,6 @@ description: Lecture slides on Materials Issues Related to Reactor Design, Opera
 file: /courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/0250c329b342cb702df9ad6420fb837e_lec20_rb.pdf
 file_size: 57667
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -8,8 +8,6 @@ description: Lecture slides on Nuclear Energy System Strategies, Missions and Ec
 file: /courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/ad43e7e1588eef2a720b1c0b8bb12ecc_lec1_nt.pdf
 file_size: 2984287
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: Lecture slides with an overview of PRA Methodology.
 file: /courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/a316316c2bc3f059cb539976b518221f_lec9_ga.pdf
 file_size: 677372
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

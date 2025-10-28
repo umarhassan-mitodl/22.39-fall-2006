@@ -8,8 +8,6 @@ description: Lecture slides on Applying Safety Regulations to Plant Operations, 
 file: /courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/eee4c0e162631ec4b0f3c68da3c7703d_lec13_ak.pdf
 file_size: 543522
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

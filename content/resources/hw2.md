@@ -4,8 +4,6 @@ description: Homework assignment on VIPRE Modeling.
 file: /courses/22-39-integration-of-reactor-design-operations-and-safety-fall-2006/b645eaa5bce2cdc07a46679bd2178ba7_hw2.pdf
 file_size: 298389
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
